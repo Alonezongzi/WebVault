@@ -1,0 +1,27 @@
+{
+  "url": "https://example.com",
+  "final_url": "https://example.com",
+  "captured": "2026-10-17 10:17:02",
+  "generator": "WebVault",
+  "title": "Example Domain",
+  "byline": "",
+  "excerpt": "",
+  "site_name": "example.com",
+  "lang": "zh",
+  "text": "This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes.",
+  "html": "<body><p>This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes.</p></body>",
+  "word_count": 93,
+  "confidence": 0.4,
+  "method": "readability",
+  "images": [],
+  "links": [],
+  "tables": [],
+  "headings": [],
+  "requested_url": "https://example.com",
+  "inline_stats": {
+    "fetched": 0,
+    "inlined": 0,
+    "skipped": 0,
+    "failed": 0
+  }
+}
